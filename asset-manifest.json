@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SuccessHomeTutor/static/css/main.ae052b0e.chunk.css",
+    "main.js": "/SuccessHomeTutor/static/js/main.a92457d8.chunk.js",
+    "main.js.map": "/SuccessHomeTutor/static/js/main.a92457d8.chunk.js.map",
+    "runtime-main.js": "/SuccessHomeTutor/static/js/runtime-main.0dfde4e9.js",
+    "runtime-main.js.map": "/SuccessHomeTutor/static/js/runtime-main.0dfde4e9.js.map",
+    "static/css/2.6b560088.chunk.css": "/SuccessHomeTutor/static/css/2.6b560088.chunk.css",
+    "static/js/2.810a8fec.chunk.js": "/SuccessHomeTutor/static/js/2.810a8fec.chunk.js",
+    "static/js/2.810a8fec.chunk.js.map": "/SuccessHomeTutor/static/js/2.810a8fec.chunk.js.map",
+    "static/js/3.54605476.chunk.js": "/SuccessHomeTutor/static/js/3.54605476.chunk.js",
+    "static/js/3.54605476.chunk.js.map": "/SuccessHomeTutor/static/js/3.54605476.chunk.js.map",
+    "index.html": "/SuccessHomeTutor/index.html",
+    "static/css/2.6b560088.chunk.css.map": "/SuccessHomeTutor/static/css/2.6b560088.chunk.css.map",
+    "static/css/main.ae052b0e.chunk.css.map": "/SuccessHomeTutor/static/css/main.ae052b0e.chunk.css.map",
+    "static/js/2.810a8fec.chunk.js.LICENSE.txt": "/SuccessHomeTutor/static/js/2.810a8fec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dfde4e9.js",
+    "static/css/2.6b560088.chunk.css",
+    "static/js/2.810a8fec.chunk.js",
+    "static/css/main.ae052b0e.chunk.css",
+    "static/js/main.a92457d8.chunk.js"
+  ]
+}
