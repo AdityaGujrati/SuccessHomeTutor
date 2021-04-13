@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SuccessHomeTutor/static/css/main.a7a2c61d.chunk.css",
-    "main.js": "/SuccessHomeTutor/static/js/main.acfbc92a.chunk.js",
-    "main.js.map": "/SuccessHomeTutor/static/js/main.acfbc92a.chunk.js.map",
+    "main.js": "/SuccessHomeTutor/static/js/main.fc27355d.chunk.js",
+    "main.js.map": "/SuccessHomeTutor/static/js/main.fc27355d.chunk.js.map",
     "runtime-main.js": "/SuccessHomeTutor/static/js/runtime-main.7c9479e9.js",
     "runtime-main.js.map": "/SuccessHomeTutor/static/js/runtime-main.7c9479e9.js.map",
     "static/css/2.8ed192e5.chunk.css": "/SuccessHomeTutor/static/css/2.8ed192e5.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.8ed192e5.chunk.css",
     "static/js/2.312c3e32.chunk.js",
     "static/css/main.a7a2c61d.chunk.css",
-    "static/js/main.acfbc92a.chunk.js"
+    "static/js/main.fc27355d.chunk.js"
   ]
 }
